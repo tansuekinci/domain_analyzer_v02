@@ -1,0 +1,13 @@
+# --- Ana Script Gereksinimleri ---
+requests
+python-whois
+pandas
+dnspython
+tabulate
+beautifulsoup4
+openpyxl
+
+# --- Sublist3r Gereksinimleri ---
+argparse
+# Not: dnspython ve requests yukarıda zaten var,
+# ancak Sublist3r da bunları kullanır.
