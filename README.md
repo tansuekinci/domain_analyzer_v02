@@ -44,7 +44,7 @@ This tool analyzes **DNS records**, discovers subdomains using **Sublist3r**, va
 ### 1. Clone the Repository
 Since the necessary modules (including Sublist3r) are bundled within the project, simply clone the repository:
 
-    git clone [https://github.com/tansuekinci/domain_analyzer_v02.git](https://github.com/tansuekinci/domain_analyzer_v02.git)
+    git clone https://github.com/tansuekinci/domain_analyzer_v02.git
     cd domain_analyzer_v02
 
 ### 2. Install Required Libraries
