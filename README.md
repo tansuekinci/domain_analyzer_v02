@@ -40,8 +40,10 @@ Since the necessary modules (including Sublist3r) are bundled within the project
 
 Bash
 
+
 git clone https://github.com/tansuekinci/domain_analyzer_v02.git
-cd YOUR_REPO_NAME
+cd domain_analyzer_v02
+
 2. Install Required Libraries
 Install the necessary Python libraries using the requirements.txt file:
 
