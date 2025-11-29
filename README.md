@@ -1,5 +1,6 @@
 # domain_analyzer_v02
-Analyze given domain's web and mail systems
+
+
 🛡️ Domain Security & Intelligence Analyzer
 Domain Security & Intelligence Analyzer is a Python-based automation tool designed to gather comprehensive intelligence, audit security vulnerabilities, and analyze the performance of a domain name.
 
