@@ -55,6 +55,7 @@ Install the necessary Python libraries using the `requirements.txt` file:
 > **Manual Installation:** If you run into issues, you can install them manually:
 >
 >     pip3 install requests python-whois pandas dnspython tabulate beautifulsoup4 openpyxl argparse
+> If this didn't work, try using "--break-system-packages --user" pip3 paremeters.
 
 ### ℹ️ Note on Sublist3r
 The Sublist3r tool is already included in the `Sublist3r/` directory within this project. You do not need to install it separately.
